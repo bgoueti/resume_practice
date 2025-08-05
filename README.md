@@ -1,4 +1,4 @@
-                      # John Doe
+# John Doe
 
 ## Contact Information
 - **Email:** john.doe@example.com
