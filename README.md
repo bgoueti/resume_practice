@@ -1,12 +1,9 @@
-# [My Resume](https://docs.google.com/document/d/1ZwgxGAj3BBbc7n9-X5Atx2P7oTk3ylVAacCP8O7KVIY/edit?tab=t.0)
-# [LinkedIn] (www.linkedin.com/in/bi-tohan-goueti)
-
                       # John Doe
 
 ## Contact Information
 - **Email:** john.doe@example.com
 - **Phone:** (123) 456-7890
-- **LinkedIn:** linkedin.com/in/johndoe
+- **LinkedIn:** linkedin.com/in/bi-tohan-goueti
 - **GitHub:** github.com/johndoe
 
 ## Summary
@@ -48,3 +45,5 @@ A concise summary of your professional background, key skills, and career goals.
 - **Volunteer Experience**
 - **Languages**
 - **Awards & Honors**
+
+# [My Resume](https://docs.google.com/document/d/1ZwgxGAj3BBbc7n9-X5Atx2P7oTk3ylVAacCP8O7KVIY/edit?tab=t.0)
