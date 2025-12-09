@@ -1,10 +1,10 @@
-# John Doe
+# Bi Tohan Fulbert GOUETI
 
 ## Contact Information
-- **Email:** john.doe@example.com
-- **Phone:** (123) 456-7890
+- **Email:** fbgoueti@gmail.com
+- **Phone:** (402) 208-1389
 - **LinkedIn:** linkedin.com/in/bi-tohan-goueti
-- **GitHub:** github.com/johndoe
+- **GitHub:** https://github.com/bgoueti
 
 ## Summary
 A concise summary of your professional background, key skills, and career goals. Keep it to 2–3 sentences.
